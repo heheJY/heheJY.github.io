@@ -10,4 +10,4 @@ tags : [Testing]
 
 testing 123
 
-![Alt text](/assets/lib/img/hehe.jpg)
+![Alt text](/assets/img/hehe.jpg)
